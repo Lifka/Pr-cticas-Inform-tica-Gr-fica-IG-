@@ -1,0 +1,3 @@
+# Practicas-IG
+Prácticas Informática Gráfica (IG) UGR (3º Ingeniería informática) - OpenGL
+La práctica 4 y 5 se han perdido....
